@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey there! 👋
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=undevable)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **undevable/undevable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
