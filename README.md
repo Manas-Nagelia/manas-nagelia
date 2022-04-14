@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=undevable&show_icons=true&count_private=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=undevable&langs_count=8&show_icons=true&count_private=false&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=undevable&langs_count=8&show_icons=true&count_private=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 ### More About Me!
 😄 Hey there! I am a web developer! I have very little expierence in game development (I used Unity), as I tried it out for a couple months, but I prefer and do web development.
