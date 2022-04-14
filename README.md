@@ -8,7 +8,7 @@
 😄 Hey there! I am a web developer! I have very little expierence in game development (I used Unity), as I tried it out for a couple months, but I prefer and do web development.
 <br />
 
-🔭 I am currently working on a <a href="https://github.com/undevable/chat-app">Chat App</a>.
+🔭 I am currently working on nothing!
 <br/>
 
 🌱 In the future, I wish to use my programming skills to start a business!
